@@ -1,4 +1,4 @@
-**#  MySQL setup K8s**
+**#  2-Tier-App-Deployment-K8s**
 
 This repository contains YAML configuration files for deploying a MySQL database and a Todo application using Kubernetes.
 
